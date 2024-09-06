@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Noticias del dia"
-date:   2024-09-03 15:16:19 -0500
+date:   2024-09-04 15:16:19 -0500
 categories: jekyll update
 ---
 Esta pagina es mi segunda página de mi `Portal`.
