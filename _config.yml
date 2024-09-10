@@ -14,4 +14,4 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
+text: Texto Nuevo
